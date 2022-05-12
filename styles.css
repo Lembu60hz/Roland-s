@@ -1,0 +1,141 @@
+
+.gabung{
+    background-image: url(https://wallpaperaccess.com/full/4401634.jpg) ;
+    padding: 1% 1% 1%;
+    background-size:cover
+    
+    
+
+}
+
+.banner{
+    text-align: center;
+    text-shadow: #da0b3f;
+    
+}
+
+.heading-instrument{
+    color: rgb(46, 3, 3);
+}
+
+.tulisanPutih{
+    color: hsla(0, 0%, 100%, 0.932);
+}
+
+/* Seksyen 2 */
+
+.gabung2{
+    background-color: rgba(216, 22, 109, 0.288);
+    text-align: center;
+    padding: 1% 15% 1%;
+    border-style:none;
+    border-radius: 9pt;
+}
+
+.icon{
+    color: rgba(247, 2, 104, 0.918);
+    margin-bottom: 1rem;
+    
+
+}
+
+.feature-box{
+    padding: 0.5%;
+}
+
+.navbar-brand{
+    color: rgba(165, 42, 52, 0.797);
+    
+}
+
+.footer{
+    background-color: rgba(218, 22, 58, 0.849);
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: #da980b;
+}
+
+.heading-instrument{
+    font-size: 800%;
+}
+
+h5{
+    color: rgb(225, 225, 210);
+    font-family: 'Gidugu', sans-serif;
+
+
+}
+
+h2{
+    color: rgba(255, 234, 4, 0.932);
+    font-family: 'Pacifico', cursive;
+    
+}
+
+p{
+    color: rgba(252, 178, 7, 0.963);
+    
+    
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    
+}
+
+.ata{
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+
+.image1{
+    padding: 7% 15% 7% ;
+    text-align: center;
+    
+}
+
+/* seksyen 4  */
+
+.section4{
+    padding: 5%;
+    text-align: center;
+    
+
+}
+
+/* Seksyen 5 */
+
+.section5{
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+    
+}
+
+.footer{
+    background-color: #a11556b4;
+    padding: 2%;
+    text-align: center;
+}
+
+/* Section 4 */
+li{
+    color: #da0b7d;
+}
+
+
+/* section 3 */
+
+.section3{
+
+    padding: 7%, 7%, 7%;
+}
+
+div{
+
+font-size-adjust: 0.58;
+
+}
